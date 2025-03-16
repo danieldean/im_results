@@ -1,0 +1,25 @@
+{
+    "name": "IRM-PUCON703-2025",
+    "date": "2025-01-12",
+    "desc": "IRONMAN 70.3 Pucon",
+    "earliestStartTime": "1736676000",
+    "logoImg": "/_imgss/events/IRM-PUCON703-2025/1734964911_downlo-7899.png",
+    "shortName": "IRONMAN 70.3 Pucon",
+    "timeZone": "America/Santiago",
+    "units": "metric",
+    "url": "https://track.rtrt.me/e/IRM-PUCON703-2025",
+    "loc": {
+        "desc": "Pucón AR, Chile",
+        "coords": [
+            "-39.276205",
+            "-71.974734"
+        ],
+        "country_iso": "CL"
+    },
+    "shorturl": "5137",
+    "finishers": "1350",
+    "postponed": "0",
+    "info": {
+        "cacheVer": "0~0"
+    }
+}

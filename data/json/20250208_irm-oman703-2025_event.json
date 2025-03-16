@@ -1,0 +1,25 @@
+{
+    "name": "IRM-OMAN703-2025",
+    "date": "2025-02-08",
+    "desc": "IRONMAN 70.3 Oman",
+    "earliestStartTime": "1738980900",
+    "logoImg": "/_imgss/events/IRM-OMAN703-2024/1707501266_ironman70-muscat-eperience-engl-3478.png",
+    "shortName": "IM 70.3 Oman",
+    "timeZone": "Asia/Muscat",
+    "units": "metric",
+    "url": "https://track.rtrt.me/e/IRM-OMAN703-2025",
+    "loc": {
+        "desc": "Muscat, Oman",
+        "coords": [
+            "23.61",
+            "58.54"
+        ],
+        "country_iso": "AE"
+    },
+    "shorturl": "5138",
+    "finishers": "798",
+    "postponed": "0",
+    "info": {
+        "cacheVer": "0~0"
+    }
+}
