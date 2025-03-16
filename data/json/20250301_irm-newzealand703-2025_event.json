@@ -1,0 +1,25 @@
+{
+    "name": "IRM-NEWZEALAND703-2025",
+    "date": "2025-03-01",
+    "desc": "ANZCO Foods IRONMAN 70.3 New Zealand",
+    "earliestStartTime": "1740765600",
+    "logoImg": "/_imgss/events/IRM-NEWZEALAND703-2025/1738867889_downlo-3-5886.png",
+    "shortName": "IM 70.3 New Zealand",
+    "timeZone": "Pacific/Auckland",
+    "units": "metric",
+    "url": "https://track.rtrt.me/e/IRM-NEWZEALAND703-2025",
+    "loc": {
+        "desc": "Taupo, New Zealand",
+        "country_iso": "NZ",
+        "coords": [
+            "-38.68682",
+            "176.0696"
+        ]
+    },
+    "shorturl": "5139",
+    "finishers": "861",
+    "postponed": "0",
+    "info": {
+        "cacheVer": "0~0"
+    }
+}
