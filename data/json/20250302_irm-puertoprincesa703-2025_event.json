@@ -1,0 +1,25 @@
+{
+    "name": "IRM-PUERTOPRINCESA703-2025",
+    "date": "2025-03-02",
+    "desc": "IRONMAN 70.3 Puerto Princesa",
+    "earliestStartTime": "1740867600",
+    "logoImg": "/_imgss/events/IRM-PUERTOPRINCESA703-2025/1738869486_downlo-5-8619.png",
+    "shortName": "IM 70.3 Puerto Princesa",
+    "timeZone": "Asia/Manila",
+    "units": "metric",
+    "url": "https://track.rtrt.me/e/IRM-PUERTOPRINCESA703-2025",
+    "loc": {
+        "desc": "Puerto Princesa, Philippines",
+        "country_iso": "PH",
+        "coords": [
+            "9.75",
+            "118.75"
+        ]
+    },
+    "shorturl": "5142",
+    "finishers": "323",
+    "postponed": "0",
+    "info": {
+        "cacheVer": "0~0"
+    }
+}
